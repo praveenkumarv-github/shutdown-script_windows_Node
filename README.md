@@ -10,5 +10,5 @@ Step 0.1 : Execure the shutdownScripts.py from Fav IDE.
        
        Both Iplist.py & shutdownScripts.py should be in same directory !!
 
-       Script executer should be in same Network segment or shared subnet !
+       Script executer should be in same Network segment or shared subnet or reachable segment  !
        
